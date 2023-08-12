@@ -1,9 +1,13 @@
 # Developer-CV
+## Yaejin Jeon
+>**pikpokjeon@gmail.com** | 010 - 2102 - 1078 
 
-#### name : Yaejin Jeon
-#### phone : 010 - 2102 - 1078
-#### email : pikpokjeon@gmail.com
-#### city : Seoul, dongdaemun - gu
+<small> Seoul, dongdaemun - gu </small>
+#### 최종학력 : 고등학교
+- **이화여자대학교 /**   산업디자인 전공(학사)  ****중퇴  2013 ~ 2018
+- **MPGU** /   러시아어 어학 연수 2015 ~ 2017
+- **부산 예술 고등학교** /  2009 ~ 2013
+- **Unity High School** /   미국 교환 학생  2009 ~ 2010
 
 
 ## Action Logic Specialist
